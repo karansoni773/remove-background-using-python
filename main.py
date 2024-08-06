@@ -3,8 +3,8 @@
 
 from rembg import remove
 from PIL import Image
-
-input_path = "in.png"
+# put  your png image here 
+input_path = "in.png"  
 output_path = "out.png"
 
 input = Image.open(input_path)
