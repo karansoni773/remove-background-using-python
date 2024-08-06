@@ -1,3 +1,4 @@
+# Code by Karan
 # pip install rembg pillow
 
 from rembg import remove
